@@ -2,7 +2,7 @@
 
 namespace ContosoUniversity.Migrations
 {
-    public partial class j : Migration
+    public partial class jas : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
